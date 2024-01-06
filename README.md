@@ -24,7 +24,7 @@ This project provides a user-friendly interface to generate random and secure pa
 
 ## Usage
 
-1. Visit the [Random Password Generator](#) website.
+1. Visit the [Random Password Generator](https://oguzhanozenc.github.io/password-generator/) website.
 2. Enter the desired password length.
 3. Click the "Generate!" button to get random passwords.
 4. Copy the generated passwords using the provided buttons.
